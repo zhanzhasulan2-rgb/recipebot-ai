@@ -141,7 +141,7 @@ See full list in `requirements.txt`.
 |---|---|
 | Member 1 | Telegram bot architecture, command handlers, conversation flows |
 | Member 2 | AI prompt engineering, personalization logic, model fallback system |
-| Member 3 | User storage system (storage.py), error handling, testing |
+| Aibol | User storage system (storage.py), error handling, testing |
 
 ---
 
