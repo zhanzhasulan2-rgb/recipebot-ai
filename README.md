@@ -140,7 +140,7 @@ See full list in `requirements.txt`.
 | Member | Contribution |
 |---|---|
 | Member 1 | Telegram bot architecture, command handlers, conversation flows |
-| Member 2 | AI prompt engineering, personalization logic, model fallback system |
+| Yenlik | AI prompt engineering, personalization logic, model fallback system |
 | Aibol | User storage system (storage.py), error handling, testing |
 
 ---
